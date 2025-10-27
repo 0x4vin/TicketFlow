@@ -13,41 +13,6 @@ TicketFlow is a comprehensive, full-stack issue tracking system built with the M
 * **Cloud Database:** Uses MongoDB Atlas for persistent, cloud-based data storage.
 
 ---
-
-## 🛠️ Project Structure
-
-The project is divided into two main services: a Node/Express backend API and a React frontend client.
-
-ticketflow/
-├── backend/
-│   ├── src/
-│   │   ├── config/
-│   │   ├── controllers/
-│   │   ├── middlewares/
-│   │   ├── models/
-│   │   ├── routes/
-│   │   ├── utils/
-│   │   └── app.js
-│   ├── package.json
-│   └── server.js
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── api/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   ├── hooks/
-│   │   ├── styles/
-│   │   ├── utils/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── package.json
-│
-└── README.md
----
 ## 🚀 Setup and Running Instructions
 
 Follow these steps to get the application running locally.
